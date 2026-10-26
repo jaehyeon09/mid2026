@@ -33,3 +33,5 @@ int main(void)
     return 0;
 }
 ```
+<img width="281" height="119" alt="mid3 md" src="https://github.com/user-attachments/assets/05a3a9f7-87f3-4b27-b3d7-77a02bc88de2" />
+<img width="297" height="96" alt="mid3-1 md" src="https://github.com/user-attachments/assets/fb07ee45-ab8e-4f9b-bad7-e08b4518a444" />
