@@ -179,3 +179,4 @@ int main(void)
     return 0;
 }
 ```
+<img width="799" height="631" alt="프로그래밍 심화 중간고사 mid1 md" src="https://github.com/user-attachments/assets/d6e35e2f-0874-4a71-9b22-f356163563a2" />
