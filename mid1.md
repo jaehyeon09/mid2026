@@ -1,4 +1,4 @@
-```
+```c
 #include "raylib.h"
 
 #define W 800
